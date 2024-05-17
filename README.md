@@ -6,7 +6,7 @@
 - 👯 Procurando em colaborar com a comunidade PHP e OpensSource
 - 🤔 Precisando de Ajuda com certificações microsoft
 - 💬 Pergunta-me sobre PHP ou MySQLi
-- 📫 Contacte-me pelos Emails: edmilsonjonh@gmail.com, edmilson.quiala@amsp.ao!
+- 📫 Contacte-me pelos Emails: edmilsonjonh@gmail.com, info@edmilsonquiala.com!
 - 😄 Trate-me por DR. ELE, DEV
 - ⚡ Eu choro quando oiço Requien de Mozart!
 
@@ -24,9 +24,9 @@
   <img align="center" alt="Quiala-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Quiala-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Quiala-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Quiala-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Quiala-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Quiala-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Quiala-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Quiala-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/Wp6BRn60B4jaUwW2eK/200w.gif">
 </div>
   
