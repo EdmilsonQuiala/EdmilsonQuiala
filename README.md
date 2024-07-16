@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando como desenvolvedor de software e designer gráfico
-- 🌱 Atuaalmente aprendendo AZURE, PHP, MySQLi, LARAVEL, e Marketing Digital
+- 🌱 Aprendendo AZURE, PHP, MySQLi, LARAVEL, e Marketing Digital
 - 👯 Procurando em colaborar com a comunidade PHP e OpensSource
 - 💬 Pergunta-me sobre PHP, React, ou C#
 - 📫 Contacte-me pelos Emails: edmilsonjonh@gmail.com, info@edmilsonquiala.com!
