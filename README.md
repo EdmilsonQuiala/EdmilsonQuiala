@@ -4,11 +4,8 @@
 - 🔭 Atualmente trabalhando como desenvolvedor de software e designer gráfico
 - 🌱 Atuaalmente aprendendo AZURE, PHP, MySQLi, LARAVEL, e Marketing Digital
 - 👯 Procurando em colaborar com a comunidade PHP e OpensSource
-- 🤔 Precisando de Ajuda com certificações microsoft
-- 💬 Pergunta-me sobre PHP ou MySQLi
+- 💬 Pergunta-me sobre PHP, React, ou C#
 - 📫 Contacte-me pelos Emails: edmilsonjonh@gmail.com, info@edmilsonquiala.com!
-- 😄 Trate-me por DR. ELE, DEV
-- ⚡ Eu choro quando oiço Requien de Mozart!
 
 <div align="center">
   <a href="https://edmilsonquiala.com">
