@@ -24,7 +24,7 @@ Atualmente trabalho com **Java (Spring Boot), PHP (Laravel), Node.js, React, Vue
   <img align="center" alt="Postgres" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Azure" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="GitLab" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
@@ -58,6 +58,17 @@ Atualmente trabalho com **Java (Spring Boot), PHP (Laravel), Node.js, React, Vue
 
 ---
 
-![Snake animation](https://github.com/edmilsonquiala/edmilsonquiala/blob/output/github-contribution-grid-snake.svg)
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edmilsonquiala&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Edmilson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edmilsonquiala&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=edmilsonquiala&theme=onedark&row=1&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 
 ---
