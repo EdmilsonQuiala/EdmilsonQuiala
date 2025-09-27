@@ -8,8 +8,8 @@
 - 📫 Contacte-me pelos Emails: edmilsonjonh@gmail.com, info@edmilsonquiala.com!
 
 <div align="center">
-  <a href="https://edmilsonquiala.com">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=light"/>
+  <a href="https://www.edmilson.quialacorps.com/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsonquiala&layout=compact&langs_count=7&theme=light"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
